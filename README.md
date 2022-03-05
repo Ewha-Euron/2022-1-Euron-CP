@@ -17,11 +17,11 @@ Euron 2기 대회팀: 스터디 세션 발표 자료 정리
 |7|22/05/06|NLP : [Coronavirus tweets NLP - Text Classification](https://www.kaggle.com/datatattle/covid-19-nlp-text-classification/code?datasetId=863934&sortBy=voteCount)|김희숙, 이지호 |[📚]()|
 |8|22/05/13|ML : [전력수요량 예측 경진대회](https://dacon.io/competitions/official/196878/codeshare/418?page=1&dtype=recent) | 이지혜, 이수연 |[📚]()|
 |9|22/05/20| NLP : | 한예송, 홍재령 |[📚]()|
-|10|22/05/27| CV :  |김희숙, 이지호  |[📚]()|
+|10|22/05/27| CV : [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge/overview) |김희숙, 이지호  |[📚]()|
 |11|22/06/03|NLP : [한국어 문장 관계 분류 경진대회](https://dacon.io/competitions/official/235875/codeshare)   | 이지혜, 이수연  |[📚]()|
 |12|22/06/24| ML :    | 한예송, 홍재령  |[📚]()|
 |13|22/07/01| ML : | 김희숙, 이지호 |[📚]()|
-|14|22/07/08| CV :   | 이지혜, 이수연 |[📚]()|
+|14|22/07/08| CV :  [산업 제어 시스템 보안 위협 탐지 AI 경진대회](https://dacon.io/competitions/official/235757/overview/description) | 이지혜, 이수연 |[📚]()|
 |15|22/07/15|NLP : [Women's E-commnerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews/code?datasetId=11827&sortBy=voteCount)   | 한예송, 홍재령  |[📚]()|
 |16|22/07/22| 빅콘테스트 출전 | |
 |17|22/07/29| 빅콘테스트 출전 | |
