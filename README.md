@@ -12,7 +12,7 @@ Euron 2기 대회팀: 스터디 세션 발표 자료 정리
 |2|22/03/18|Recommendation : [Anime Recommendation](https://www.kaggle.com/hernan4444/anime-recommendation-database-2020/code?datasetId=1225408&sortBy=voteCount), [Baseline_kaggle](https://www.kaggle.com/chocozzz/t-academy-recommendation/code)| 김희숙, 이수연, 이지호 |[📚](CP_week2.pdf)|
 |3|22/03/25|CV : [작물 병해진단 AI 경진대회](https://dacon.io/competitions/official/235870/codeshare/4425?page=1&dtype=recent) |한예송, 홍재령, 이지혜|[📚](CP_week3.pdf)|
 |4|22/04/01|Recommendation : [KNOW기반 직업 추천 알고리즘 경진대회](https://dacon.io/competitions/official/235865/codeshare) | 김희숙, 이수연, 이지호 |[📚](CP_week4.pdf)|
-|5|22/04/08|ML : [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification) |한예송, 홍재령, 이지혜|[📚]()|
+|5|22/04/08|ML : [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification) |한예송, 홍재령, 이지혜|[📚](CP_week5.pdf)|
 |6|22/04/15|대회 중간점검 발표| ALL |[📚]()|
 |7|22/05/06|NLP : [Coronavirus tweets NLP - Text Classification](https://www.kaggle.com/datatattle/covid-19-nlp-text-classification/code?datasetId=863934&sortBy=voteCount)|김희숙, 이지호 |[📚]()|
 |8|22/05/13|ML : [전력수요량 예측 경진대회](https://dacon.io/competitions/official/196878/codeshare/418?page=1&dtype=recent) | 이지혜, 이수연 |[📚]()|
