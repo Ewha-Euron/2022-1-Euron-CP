@@ -15,7 +15,7 @@ Euron 2기 대회팀: 스터디 세션 발표 자료 정리
 |5|22/04/08|ML : [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification) |한예송, 홍재령, 이지혜|[📚](CP_week5.pdf)|
 |6|22/04/15|대회 중간점검 발표| ALL |[📚]()|
 |7|22/05/06|NLP : [Coronavirus tweets NLP - Text Classification](https://www.kaggle.com/datatattle/covid-19-nlp-text-classification/code?datasetId=863934&sortBy=voteCount)|김희숙, 이지호 |[📚]()|
-|8|22/05/13|ML : [전력수요량 예측 경진대회](https://dacon.io/competitions/official/196878/codeshare/418?page=1&dtype=recent) | 이지혜, 이수연 |[📚]()|
+|8|22/05/13|ML : [인공지능 비트 트레이더 경진대회 시즌3](https://dacon.io/competitions/official/235740/overview/description) | 이지혜, 이수연 |[📚]()|
 |9|22/05/20| NLP : [Amazon Fine Food Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews/code?datasetId=18&sortBy=voteCount) | 한예송, 홍재령 |[📚]()|
 |10|22/05/27| CV : [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge/overview) |김희숙, 이지호  |[📚]()|
 |11|22/06/03|NLP : [한국어 문장 관계 분류 경진대회](https://dacon.io/competitions/official/235875/codeshare)   | 이지혜, 이수연  |[📚]()|
