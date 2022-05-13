@@ -38,8 +38,3 @@ Euron 2기 대회팀: 스터디 세션 발표 자료 정리
 * 2022/07/22 ~ 2022/08/26 : 필수 대회 출전 기간 (빅 콘테스트 작년 일정 기반 예상)
 
 
-## 개최 대회 리스트업 
-| 대회명 | 날짜 | 링크 |
-|---|---|---|
-|강서구 빅데이터 활용 공모전|22/03/25 접수 마감|[강서구](https://www.gangseo.seoul.kr/gs040101/279497?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=) |
-
