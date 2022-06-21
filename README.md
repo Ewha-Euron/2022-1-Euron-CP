@@ -19,7 +19,7 @@ Euron 2기 대회팀: 스터디 세션 발표 자료 정리
 |9|22/05/20| NLP : [한국어 문장 관계 분류 경진대회](https://dacon.io/competitions/official/235875/codeshare) | 한예송, 홍재령 |[📚]()|
 |10|22/05/27| CV : [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge/overview) |김희숙, 이지호  |[📚]()|
 |11|22/06/03| 대회 회고 발표  | ALL  |[📚]()|
-|12|22/06/24| ML : [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/code?competitionId=8540&sortBy=voteCount)   | 한예송, 홍재령  |[📚]()|
+|12|22/06/24| ML : ML : [주차수요 예측 AI 경진대회](https://dacon.io/competitions/official/235745/overview/description)   | 한예송, 홍재령  |[📚]()|
 |13|22/07/01| ML : [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection) | 김희숙, 이지호 |[📚]()|
 |14|22/07/08| CV :  [산업 제어 시스템 보안 위협 탐지 AI 경진대회](https://dacon.io/competitions/official/235757/overview/description) | 이지혜, 이수연 |[📚]()|
 |15|22/07/15|NLP : [Women's E-commnerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews/code?datasetId=11827&sortBy=voteCount)   | 한예송, 홍재령  |[📚]()|
