@@ -22,13 +22,13 @@ Euron 2기 대회팀: 스터디 세션 발표 자료 정리
 |12|22/06/24| ML : ML : [주차수요 예측 AI 경진대회](https://dacon.io/competitions/official/235745/overview/description)   | 한예송, 홍재령  |[📚]()|
 |13|22/07/01| ML : [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection) | 김희숙, 이지호 |[📚]()|
 |14|22/07/08| CV :  [산업 제어 시스템 보안 위협 탐지 AI 경진대회](https://dacon.io/competitions/official/235757/overview/description) | 이지혜, 이수연 |[📚]()|
-|15|22/07/15|NLP : [Women's E-commnerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews/code?datasetId=11827&sortBy=voteCount)   | 한예송, 홍재령  |[📚]()|
-|16|22/07/22| 빅콘테스트 출전 | |
-|17|22/07/29| 빅콘테스트 출전 | |
-|18|22/08/05| 빅콘테스트 출전 | | |
-|19|22/08/12| 빅콘테스트 출전 | | |
-|20|22/08/19| 빅콘테스트 출전 | | |
-|21|22/08/26| 빅콘테스트 출전 | | |
+|15|22/07/15|NLP : [자연어 기반 기후기술분류 AI 경진대회](https://dacon.io/competitions/official/235744/overview/description)   | 한예송, 홍재령  |[📚]()|
+|16|22/07/22| 대회 출전 | |
+|17|22/07/29| 대회 출전 | |
+|18|22/08/05| 대회 출전 | | |
+|19|22/08/12| 대회 출전 | | |
+|20|22/08/19| 대회 출전 | | |
+|21|22/08/26| 대회 출전 | | |
 
 
 ## 주요 일정 
